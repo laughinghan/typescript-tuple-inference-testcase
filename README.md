@@ -1,5 +1,5 @@
 This repo is a minimalist testcase reproducing a bug with TypeScript's type
-inference for tuples.
+inference for tuples: https://github.com/microsoft/TypeScript/issues/32761
 
 The bug doesn't happen on the TypeScript playground, only with actual files.
 
